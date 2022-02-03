@@ -29,7 +29,7 @@
 
 [菜鸟Git教程](https://www.runoob.com/git/git-basic-operations.html)
 
-Git官方文档  https://git-scm.com/book/zh/v2
+[Git官方文档](https://git-scm.com/book/zh/v2)
 
 ### 一、新建代码库
 
