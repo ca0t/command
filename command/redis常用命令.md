@@ -82,5 +82,5 @@ PONG
 
 [redis官网](https://redis.io/)
 
-redis github站点    https://github.com/redis/redis
+[redis github站点](https://github.com/redis/redis)
 
