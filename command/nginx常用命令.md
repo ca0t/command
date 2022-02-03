@@ -40,7 +40,7 @@ Nginx 其他命令
 
 [菜鸟ngnix安装教程](https://www.runoob.com/linux/nginx-install-setup.html)
 
-nginx github站点   https://github.com/nginx/nginx
+[nginx github站点](https://github.com/nginx/nginx)
 
 [nginx中文文档](https://www.nginx.cn/doc/)
 
